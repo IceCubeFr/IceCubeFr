@@ -7,6 +7,7 @@
 I'm currently learning JAVA at University  
 I also learned myself some C# to build plugin on a Unity game  
 Thanks to highschool, I'm able to make programs in python  
+As you can see by this bio, I can speak and write in english easily  
 Finally, I'm good at web creating, mostly in front-end.  
 
 ## Studies
