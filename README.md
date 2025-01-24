@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Mes stats](https://github-readme-stats.vercel.app/api?username=icecubefr)  
-Time coding :  
+Time coding since october 2024 :  
 [![wakatime](https://wakatime.com/badge/user/a9c2ac79-5715-46ac-8b12-4e76019cbc49.svg)](https://wakatime.com/@a9c2ac79-5715-46ac-8b12-4e76019cbc49)
 
 ## Skills
