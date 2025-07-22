@@ -26,6 +26,7 @@ Finally, I'm good at web creating, mostly in front-end.
 - 2024/... - BUT Informatique - IUT A de Lille - Université de Lille - Villeneuve d'Ascq - 59653
 
 ## Experience
-I worked as a community developper for a year in MOD, a community server from the game NovaLife:Amboise. This is where I learned C# and created my most downloaded project, NearbyShare (around 400 downloads in march 2025, this is an important number compared to the community).  
+I worked as a community developper for a year in MOD, a community server from the game NovaLife:Amboise. This is where I learned C# and created my most downloaded project, NearbyShare (around 700 downloads in july 2025, this is an important number compared to the community).  
+During the summer of 2025, from July 1st to July 15th, I worked as a tutor for the SNU (National Universal Service). I was hired by Aroeven Hauts-de-France, which allowed me to learn how to manage teenagers (aged 15–17), create activities, and work in harmony with people I had never met before.  
 I also worked from February 2024 to August 2024 as a member of NovaLife:Amboise's support, where I learned how to correctly help people to solve their problems.  
 Finally, I worked on SAE, Situations of Training evaluated, during my BUT, and you can find all of them in this GitHub.  
