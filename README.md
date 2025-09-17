@@ -6,7 +6,7 @@ Time coding since october 2024 :
 
 ## About me
 
-My name's Florian, I'm 18 and I'm a french students at University of Lille.  
+My name's Florian, I'm 19 and I'm a french students at University of Lille.  
 I like coding (no way), playing games and imgaine how the apps I use are modeled.  
 I'm passionate about bus, trains and public transports in general.  
 
