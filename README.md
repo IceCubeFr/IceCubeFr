@@ -17,7 +17,7 @@
 <p><a target="_blank" href="https://x.com/IceCuubeFr" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/florian-gavoille-063b21268/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IceCubeFr&show_icons=true&locale=en" alt="IceCubeFr" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IceCubeFr&show_icons=true&locale=en&layout=compact" alt="IceCubeFr" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IceCubeFr&show_icons=true&locale=fr" alt="IceCubeFr" /></p>
 
 Time coding since october 2024 :  
 [![wakatime](https://wakatime.com/badge/user/a9c2ac79-5715-46ac-8b12-4e76019cbc49.svg)](https://wakatime.com/@a9c2ac79-5715-46ac-8b12-4e76019cbc49)
